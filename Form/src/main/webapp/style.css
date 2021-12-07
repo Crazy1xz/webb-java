@@ -1,0 +1,14 @@
+header{
+	color: Green;
+	top: 0;
+}
+footer{
+	color: Green;
+	position:fixed;
+    bottom: 100vh;
+}
+
+body{
+	background-color: #cccc;
+
+}
