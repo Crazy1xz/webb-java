@@ -29,8 +29,7 @@ if(request.getParameter("stuff").equals("1")){
 }else{
 	response.sendRedirect("RGB.jsp");
 	out.println("is that a Donkey ");
-	out.print(color);
-	out.print(" ? ");
+
 }
 
 %>
